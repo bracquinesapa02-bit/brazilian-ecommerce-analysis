@@ -75,8 +75,8 @@ This project answers the following business questions:
 
 --- 
 
-![Dashboard](Project_1/assets/dashboard.png)
-![Dashboard](Project_1/assets/dashboard_2.png)
+![Dashboard](assets/dashboard.png)
+![Dashboard](assets/dashboard_2.png)
 
 
 # 🔍 Key Insights
