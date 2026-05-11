@@ -7,10 +7,15 @@ This project analyzes the Brazilian E-commerce Public Dataset by Olist using Pos
 The goal of this analysis is to identify:
 
 -Revenue Trends
+\
 -Sales Growth Patterns
+\
 -Top-performing Product Categories
+\
 -Customer Distribution
+\
 -Delivery Performance
+\
 -Customer Satisfaction Insights 
 
 The project focuses on transforming raw transactional data into business insights through SQL anlysis and dashboard visualization.
@@ -20,8 +25,11 @@ The project focuses on transforming raw transactional data into business insight
 # 🛠 Tools Used
 
 -PostgeSQL
+\
 -VS Code
+\
 -Excel
+\
 -Github
 
 ---
@@ -35,11 +43,17 @@ Brazilian E-Commerce Public Dataset by Olist from Kaggle.
 The dataset contains:
 
 -Customer Information
+\
 -Orders
+\
 -Payments
+\
 -Products
+\
 -Reviews
+\
 -Sellers
+\
 -Delivery Details
 
 --- 
@@ -61,16 +75,24 @@ This project answers the following business questions:
 
 ## KPI Metrics
 -Total Revenue
+\
 -Average Order Value
+\
 -Repeat Customers
+\
 -Total Orders
 
 ## Dashboard Visualizations
 -Monthly Revenue Trend
+\
 -Monthly Sales Growth
+\
 -Top Product Categories
+\
 -Delivery Performance by Region
+\
 -Delivery Impact on Ratings
+\
 -Customer Locations
 
 --- 
@@ -102,11 +124,17 @@ São Paulo had the highest customer concentration, significantly outperforming o
 
 # 🧠 SQL Skills Demonstrated
 -JOIN
+\
 -GROUP BY
+\
 -Aggregate Functions
+\
 -CASE Statements
+\
 -Date Functions
+\
 -Revenue Calculations
+\
 -Business KPI Analysis
 
 ---
